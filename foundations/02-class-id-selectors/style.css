@@ -1,0 +1,23 @@
+/* class selector use . */
+.odd {
+    background-color: #FFC0CB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddly-cool{
+    font-size: 24 px;
+}
+
+/* ID selector use # and note that this applies to individual unique ID */
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #c4fea1;
+    font-weight: bold;
+    font-size: 24 px;
+}
+
+
